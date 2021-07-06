@@ -1,0 +1,12 @@
+{
+  "name": "demo-sf-cypress",
+  "version": "1.0.0",
+  "description": "salesforce-cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rey",
+  "license": "ISC"
+}
